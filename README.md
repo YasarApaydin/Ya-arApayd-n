@@ -99,7 +99,6 @@
 - 🧠 Mikroservis mimarisi, dağıtık sistemler ve mesajlaşma altyapıları üzerine çalışıyorum  
 - 🧪 Yazılım test süreçlerinde Postman, Swagger gibi araçları etkin kullanıyorum  
 - ⚙️ DevOps süreçlerine ilgim var; CI/CD, Docker, Kubernetes bilgim var  
-- 💡 Yeni teknolojileri öğrenmeye, katkı sunmaya ve paylaşmaya hevesliyim  
-- ✉️ Bana ulaşmak için: **apaydinyasar0@gmail.com**
+- 💡 Yeni teknolojileri öğrenmeye, katkı sunmaya ve paylaşmaya hevesliyim
 
 ---
